@@ -1,8 +1,8 @@
 /*Master styles*/
 body {
     margin: 0px;
+    background-image: url(nature.jpeg);
 }
-
 .container {
     display: grid;
     grid-template-columns: 1fr;
